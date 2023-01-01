@@ -1,7 +1,7 @@
 # Tsunami_Coffee
 
 # Introduction
-A requirement to improve a website responsiveness, based on tasks checklist. This is a Codecademy project to implement Responsive Design understanding
+A requirement to improve a website responsiveness, based on tasks checklist. This is a project to implement Responsive Design understanding
 
 # Project Instructions
 Use your knowledge of relative units and responsive web design to help Tsunami Coffee make their website come to life.
